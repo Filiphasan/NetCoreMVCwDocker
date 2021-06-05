@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aUA0kWDiOsS3WOO5pHZAV9Ldf1CzDwKeeNwnYcnE7NZOb+VFSncIaWPZkbsS5yL1QooZe+KWsROIy9sQ71HBRg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hasae\\source\\repos\\NetCoreMvcDocker\\NetCoreMvcDocker\\NetCoreMvcDocker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hasae\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.13\\microsoft.visualstudio.azure.containers.tools.targets.1.10.13.nupkg.sha512"
+  ],
+  "logs": []
+}

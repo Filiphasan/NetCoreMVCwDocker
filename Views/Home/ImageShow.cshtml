@@ -1,0 +1,18 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["Title"] = "Image Show";
+}
+<h1 style="text-align:center">Image Show</h1>
+<form asp-action="ImageShow" method="post">
+    <input type="text" name="name" value="" />
+    <button type="submit">Sil</button>
+</form>
+@foreach (var item in Model)
+{
+    <div>
+        <img src="~/images/@item" style="width:200px; border:1px solid black;" />
+        <h4>@item</h4>
+    </div>
+}
